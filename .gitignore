@@ -1,0 +1,68 @@
+# ==========================
+# ✅ Unity 기본 빌드/캐시 폴더
+# ==========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+MemoryCaptures/
+Logs/
+
+# ==========================
+# ✅ Visual Studio 관련 파일
+# ==========================
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.tmp
+
+# ==========================
+# ✅ OS 및 기타 불필요한 파일
+# ==========================
+.DS_Store
+Thumbs.db
+*.bak
+*.old
+*.trn
+*.log
+
+# ==========================
+# ✅ 대용량/민감 리소스 (외부 링크로 제공)
+# ==========================
+*.mp4
+*.fbx
+*.psd
+*.tga
+*.wav
+*.avi
+*.mov
+*.tif
+*.png
+*.jpg
+*.jpeg
+*.exr
+
+# ==========================
+# ✅ HTML 등 기타 로컬 파일
+# ==========================
+*.html
+*.htm
+
+# ==========================
+# ✅ 개인 설정/보안 관련 파일
+# ==========================
+AppData/
+NTUSER.DAT*
+.bash_history
+.android/
+.dotnet/
+*.pem
+*.key
+*.pub
+UpgradeLog*.htm

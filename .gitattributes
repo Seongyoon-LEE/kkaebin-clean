@@ -1,0 +1,53 @@
+# ✅ 유니티 기본 캐시/빌드 폴더 무시
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+UserSettings/
+MemoryCaptures/
+Logs/
+
+# ✅ Visual Studio 관련
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.tmp
+
+# ✅ OS에서 생기는 쓰레기 파일
+.DS_Store
+Thumbs.db
+*.bak
+*.old
+*.log
+
+# ✅ 대용량 리소스 무시 (.unity, .cs 외 모두)
+*.mp4
+*.fbx
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tga
+*.psd
+*.mat
+*.shader
+*.anim
+*.controller
+*.asset
+*.prefab
+*.spriteatlas
+*.ttf
+*.mp3
+*.ogg
+
+# ✅ 개인 설정/보안 관련
+.android/
+AppData/
+*.pem
+*.key
+*.pub
